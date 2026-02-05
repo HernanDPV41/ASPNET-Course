@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBExamples.Example1", "DBExamples.Example1\DBExamples.Example1.csproj", "{213A9F8D-FE25-4A40-9ADA-268224E6A24A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBExamples.Example2", "DBExamples.Example2\DBExamples.Example2.csproj", "{6791C39B-4DDD-438E-89BD-D8A6246DDC89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{213A9F8D-FE25-4A40-9ADA-268224E6A24A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{213A9F8D-FE25-4A40-9ADA-268224E6A24A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{213A9F8D-FE25-4A40-9ADA-268224E6A24A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{213A9F8D-FE25-4A40-9ADA-268224E6A24A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6791C39B-4DDD-438E-89BD-D8A6246DDC89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6791C39B-4DDD-438E-89BD-D8A6246DDC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6791C39B-4DDD-438E-89BD-D8A6246DDC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6791C39B-4DDD-438E-89BD-D8A6246DDC89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
